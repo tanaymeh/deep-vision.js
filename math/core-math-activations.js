@@ -1,5 +1,5 @@
 /* <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/mathjs/5.1.2/math.min.js'></script> */
-//This File contains all the Actiavtion Functions
+//This File contains all the Activation Functions
 
 var a;
 var n;
