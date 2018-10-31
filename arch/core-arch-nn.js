@@ -4,7 +4,7 @@
 *   Author: TanayMehta
 *   Github: https://github.com/tanaymehta28
 *   Twitter: @Tanaymehta28
-*   License: MIT
+*   License: GPL
 **********/
 function relu(inputDat){
     return ((MATH.exp(inputDat))/(MATH.exp(inputDat))+1);
